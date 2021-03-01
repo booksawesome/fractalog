@@ -1,6 +1,6 @@
 +++
 title = "Systems Chemistry"
-categories = [tagged "Complexity"  "Modeling", "Science"]
+categories = ["Modeling", "Science"]
 date = 2008-01-14
 
 

@@ -1,6 +1,6 @@
 +++
 title = "Nonlinear Nabokov"
-categories = [tagged "Complexity"  "Literature & Poetry", "Randomness"]
+categories = ["Literature & Poetry", "Randomness"]
 date = 2008-03-23
 
 

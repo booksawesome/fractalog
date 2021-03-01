@@ -1,6 +1,6 @@
 +++
 title = "Chaos & Complexity in the Evolution vs. Intelligent Design Debate"
-categories = [tagged "Complexity"  "Evolution", "Religion", "Science"]
+categories = ["Evolution", "Religion", "Science"]
 date = 2005-12-27
 
 

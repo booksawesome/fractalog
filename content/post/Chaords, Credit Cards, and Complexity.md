@@ -1,6 +1,6 @@
 +++
 title = "Chaords, Credit Cards, and Complexity"
-categories = [tagged "Complexity"  "Chaos"]
+categories = ["Complexity"  "Chaos"]
 date = 2008-01-15
 
 

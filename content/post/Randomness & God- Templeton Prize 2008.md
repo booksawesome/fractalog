@@ -1,7 +1,7 @@
 +++
 title = "Randomness & God: Templeton Prize 2008"
 categories = ["Chaos", "Religion"]
-date = 2008-6-23
+date = 2008-06-23
 
 
 +++

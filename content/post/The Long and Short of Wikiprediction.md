@@ -1,7 +1,7 @@
 +++
 title = "The Long and Short of Wikiprediction"
 categories = ["Understanding & Prediction"]
-date = 2008-6-3
+date = 2008-06-03
 
 
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Cephalapod Fractals"
 categories = ["Evolution", "Fractals", "Student Post"]
-date = 2008-5-16
+date = 2008-05-16
 
 
 +++

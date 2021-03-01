@@ -1,7 +1,7 @@
 +++
 title = "538 and Counting"
 categories = []
-date = 2008-11-4
+date = 2008-11-04
 
 
 +++

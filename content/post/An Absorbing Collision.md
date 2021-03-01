@@ -1,7 +1,7 @@
 +++
 title = "An Absorbing Collision"
 categories = ["Modeling", "Physics", "Weather & Climate"]
-date = 2008-4-24
+date = 2008-04-24
 
 
 +++

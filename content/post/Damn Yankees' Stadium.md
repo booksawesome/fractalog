@@ -1,7 +1,7 @@
 +++
 title = "Damn Yankees' Stadium"
 categories = []
-date = 2009-4-24
+date = 2009-04-24
 
 
 +++

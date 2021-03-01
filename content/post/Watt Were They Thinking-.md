@@ -1,7 +1,7 @@
 +++
 title = "Watt Were They Thinking?"
 categories = ["Media", "Science"]
-date = 2008-5-12
+date = 2008-05-12
 
 
 +++

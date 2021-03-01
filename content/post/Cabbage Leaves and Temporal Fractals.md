@@ -1,7 +1,7 @@
 +++
 title = "Cabbage Leaves and Temporal Fractals"
 categories = ["Fractals", "Modeling"]
-date = 2008-5-16
+date = 2008-05-16
 
 
 +++

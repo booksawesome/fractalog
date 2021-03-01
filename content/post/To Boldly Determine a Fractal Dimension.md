@@ -1,7 +1,7 @@
 +++
 title = "To Boldly Determine a Fractal Dimension"
 categories = ["Fractals"]
-date = 2009-6-4
+date = 2009-06-04
 
 
 +++

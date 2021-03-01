@@ -1,7 +1,7 @@
 +++
 title = "Turbulence in Space"
 categories = ["Chaos", "Mathematics", "Understanding & Prediction"]
-date = 2007-06-9
+date = 2007-06-09
 
 
 +++

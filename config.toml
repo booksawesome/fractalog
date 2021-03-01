@@ -99,6 +99,7 @@ paginate = 10
     endLevel = 3
 
 [taxonomies]
+  category = "categories"
   tag = "tags"
 
 [menu]

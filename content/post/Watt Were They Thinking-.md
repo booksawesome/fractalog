@@ -7,7 +7,7 @@ date = 2008-05-12
 +++
 
 
-<img src="gif/cokemachine.gif" alt="cokemachine.gif" />
+<img src="https://www.fractalog.com/gif/cokemachine.gif" alt="cokemachine.gif" />
 
 Or rather, what in the world goes on when a writer for almost any type of publication - whether mainstream or not - writes about anything that remotely touches on science?
  

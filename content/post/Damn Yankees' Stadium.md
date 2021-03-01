@@ -7,7 +7,7 @@ date = 2009-04-24
 +++
 
 
-<img src="jpg/baseballaero.jpg" alt="" />
+<img src="https://www.fractalog.com/jpg/baseballaero.jpg" alt="" />
 
 How Does a Baseball Fly?I'm loving the controversy swirling around the opening of the new Yankees Stadium. The number of home runs hit is already far exceeding the pace of past seasons, leading to the inevitable pointing of big, angry New York fingers at those who are at the front lines, or at least at the foul poles, of stadium building.
 
@@ -25,7 +25,7 @@ Major League Baseball takes HR's very seriously because of the potential ratings
 Hit Tracker in its usual form uses observations of hit outcomes (landing point, time of flight) to derive the hit&rsquo;s initial parameters (Horizontal Launch Angle or HLA, Vertical Launch Angle or VLA, and Speed off Bat or SOB, with spin assumed to be a function of these factors). But, with a few lines of code added, it becomes "Hit Whacker," using HLA, VLA, SOB and atmospheric inputs to generate a hit&rsquo;s outcome. With this capability, we can create a procedure for assessing how easy or hard it is to hit homers in any park.  To cover the range of possible batted balls that could become homers, I created a &ldquo;test set&rdquo; of trajectories, representing 45 different HLA&rsquo;s (every two degrees from foul line to foul line), 41 different VLA&rsquo;s (15 to 55 degrees) and 26 different SOB&rsquo;s (95 to 120 mph). That&rsquo;s 47,970 different fly ball paths! I ran this complete test set in each park, in that park&rsquo;s actual altitude, in the park&rsquo;s average game time temperature from 2002-06, with no wind (I&rsquo;ll describe how to account for different winds shortly). The trajectories were evaluated as &ldquo;home run&rdquo; or &ldquo;not home run&rdquo;, and the results were compiled.
 </blockquote>
 
-<img src="jpg/583047-2970798-thumbnail.jpg" alt="" />
+<img src="https://www.fractalog.com/jpg/583047-2970798-thumbnail.jpg" alt="" />
 
 Hit Tracker sample output. Click to enlargeI won't list the results here, which are listed by Rybarczyk at the Hardball Times site. These results date from 2007, so the new Yankee Stadium is not yet analyzed.
 

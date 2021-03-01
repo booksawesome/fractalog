@@ -7,7 +7,7 @@ date = 2008-05-16
 +++
 
 
-<img alt="583047-1573110-thumbnail.jpg" src="jpg/583047-1573110-thumbnail.jpg" />
+<img alt="583047-1573110-thumbnail.jpg" src="https://www.fractalog.com/jpg/583047-1573110-thumbnail.jpg" />
 
    Complex SutureSteve LaMonte, a student in my Fall 2007 version of Chaos and Fractals, has noted the fractal-like shapes that are formed by suture lines in ancient cephalopods. He points out the correlation between fractal structure and the ability of the cephalopod to withstand extremes of water pressure. He writes:
      
@@ -19,6 +19,6 @@ Paleontologists (Daniel et al. 1997) have found that simple sutures, as in Permi
 Daniel, T.L., B.S. Helmuth, W.B. Saunders, and P.D. Ward. 1997. Septal complexity in ammonoid cephalopods increased mechanical risk and limited depth. <em>Paleobiology 23(4):470-481.</em>
  </blockquote>
                       
-<img src="jpg/583047-1573136-thumbnail.jpg" alt="583047-1573136-thumbnail.jpg" />
+<img src="https://www.fractalog.com/jpg/583047-1573136-thumbnail.jpg" alt="583047-1573136-thumbnail.jpg" />
 
  Complex suture closeupAlong with fellow student Christine Quinn, Steve created and maintians the What Lies Beneath wiki. Visit the wiki to find out how Chaos Theory has been applied to groundwater remediation, a growing concern in environmental protection, along with information on basic Hydrogeology. You'll also find many more pictures of the cephalopods described here, and several other fractal &amp; chaos-related topics.    

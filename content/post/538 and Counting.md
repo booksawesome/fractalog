@@ -7,7 +7,7 @@ date = 2008-11-04
 +++
 
 
-<img style="width: 300px;" src="png/538map.png" alt="" />
+<img style="width: 300px;" src="https://www.fractalog.com/png/538map.png" alt="" />
 
 Well , it's finally here, and not a moment too soon. I haven't posted in months. I'll blame some of the procrastination on today's election. Like many former able-bodied workers, I have spent countless hours watching the web wires for the latest info on the moose hunter of all elections.
 

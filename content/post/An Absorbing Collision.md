@@ -7,7 +7,7 @@ date = 2008-04-24
 +++
 
 
-<img src="jpg/583047-1516294-thumbnail.jpg" alt="583047-1516294-thumbnail.jpg" />
+<img src="https://www.fractalog.com/jpg/583047-1516294-thumbnail.jpg" alt="583047-1516294-thumbnail.jpg" />
 
  CO2-collision/absorbtionBelief in global warming, and especially the causes of GW (if one believes the data) depend crucially on modeling. The physics of atmospheric gases-solar radiation interactions, especially those involving carbon-dioxide molecules, is of major importance because the increase of CO2 is often quoted as a correlate to warming. The story is basically that CO2 absorbs some of the infrared radiation (IR) streaming to the earth from the sun, and reflects the rest back.
    

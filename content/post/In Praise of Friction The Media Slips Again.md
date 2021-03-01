@@ -7,7 +7,7 @@ date = 2006-12-29
 +++
 
 
-<img src="jpg/friction_uses-bear.jpg" alt="friction_uses-bear.jpg" />
+<img src="https://www.fractalog.com/jpg/friction_uses-bear.jpg" alt="friction_uses-bear.jpg" />
 
 I recently posted a complaint about physics misconceptions promulgated by the media. To be fair, I need to report a good job describing the physics of a situation when it appears.
                  

@@ -7,7 +7,7 @@ date = 2008-05-16
 +++
 
 
-<img src="jpg/583047-1616245-thumbnail.jpg" alt="583047-1616245-thumbnail.jpg" />
+<img src="https://www.fractalog.com/jpg/583047-1616245-thumbnail.jpg" alt="583047-1616245-thumbnail.jpg" />
 
  Fractal tumor on Wild Cabbage LeafI have always considered fractals in time to be related to self-similar music (such as a nested fugue), or just a plain-old self-similar time-series, such as stock market fluctuations, or the corn price fluctuations at the Chicago Mercantile Exchange, whose fractal nature was first noted by Mandelbrot.
      

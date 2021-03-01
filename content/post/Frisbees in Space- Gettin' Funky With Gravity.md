@@ -6,7 +6,7 @@ date = 2006-12-17
 
 +++
 
-<img src="jpg/frisbee-outer-space-240.jpg" alt="frisbee-outer-space-240.jpg" style="width: 156px; height: 156px;" />
+<img src="https://www.fractalog.com/jpg/frisbee-outer-space-240.jpg" alt="frisbee-outer-space-240.jpg" style="width: 156px; height: 156px;" />
 
   
 This is a cautionary tale of frisbees in space, and those in the media who report about them...
@@ -39,6 +39,6 @@ Check out the Inquirer page for assorted frisbee in space links, including a vid
      
 And don't forget to check out James Brown for the final word on Gravity:
      
-<blockquote> <img alt="brownjamesgravity0420065vj.jpg" src="jpg/brownjamesgravity0420065vj.jpg" />
+<blockquote> <img alt="brownjamesgravity0420065vj.jpg" src="https://www.fractalog.com/jpg/brownjamesgravity0420065vj.jpg" />
 
 In the twenty-first century  You can dance  Get your feet off the ground     And if you believe  Then you can fly     Hit it, gravity, yow    Horns      Heh, yeah, wait a minute   Lookie here      Gravity, the big G   G-r-a-v-i-t-y (gravity)   Say it, got a hold on me      For the third verse, the sun   I've been trying to get   The funky job doneAnd work that ??   Don't mess in the   Wrong honky tonk-a      You got no sense   You dance too fast   You burn all night   You'll never last      If every man can dream   Then he can fly   G-r-a-v-i-t-y   Gravity, wow, big G      G-r-a-v-i-t-y   Gravity   G-r-a-v-i-t-y   Wait a minute      Slow it down, big city   There's a fat cat here   Sitting pretty      Watch me break out   In a cold sweat   Jump back, baby   You ain't seen nothing yet      You shake it up   You dance too fast   You think it will   Make it last      If every man can dream   Then he can fly   G-r-a-v-i-t-y      Gravity, the big G   (Gravity) oww   G-r-a-v-i-t-y, say it   Gravity, got a hold on me      Let me say that if   You can dream   Then you can fly   G-r-a-v-i-t-y      If you can love   Then you can fly   G-r-a-v-i-t-y   G-r-a-v-i-t-y   Good god      Gravity   G-r-a-v-i-t-y   Gravity, say it      Get funky, gravity   Everybody say it now   G-r-a-v-i-t-y   Gravity, ha</blockquote>

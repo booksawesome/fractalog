@@ -7,7 +7,7 @@ date = 2008-06-03
 +++
 
 
-<img src="jpg/583047-1625220-thumbnail.jpg" alt="583047-1625220-thumbnail.jpg" />
+<img src="https://www.fractalog.com/jpg/583047-1625220-thumbnail.jpg" alt="583047-1625220-thumbnail.jpg" />
 
  The Problem with Wikipedia. (Click to enlarge)In what may be a self-organized example of Occam's Razor, consider the case of reliability of Wikipedia articles.
    

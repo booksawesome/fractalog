@@ -7,7 +7,7 @@ date = 2008-06-23
 +++
 
 
-<img alt="michal_heller.jpg" src="jpg/michal_heller.jpg" />
+<img alt="michal_heller.jpg" src="https://www.fractalog.com/jpg/michal_heller.jpg" />
 
 This past march, Michal Heller was awarded the 2008 Templeton Prize, an honor that groups him with other prize winners as <em>&quot;entrepreneurs of the spirit&quot;&mdash; </em>defined by John Templeton as <em>outstanding individuals who have devoted their talents to those aspects of human experience that, even in an age of astonishing scientific advance, remain beyond the reach of scientific explanation.</em> (more)
 

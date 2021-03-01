@@ -7,7 +7,7 @@ date = 2008-05-08
 +++
 
 
-<img src="jpg/583047-1556276-thumbnail.jpg" alt="583047-1556276-thumbnail.jpg" />
+<img src="https://www.fractalog.com/jpg/583047-1556276-thumbnail.jpg" alt="583047-1556276-thumbnail.jpg" />
 
 Klaatu barada niktoOne of the great lines in all of 20th century science was uttered over lunch by Enrico Fermi. In a discussion of the possible likelihood of many advanced civilizations in our galaxy, Fermi said something to the effect of &quot;well, where the hell are they.&quot;
  

@@ -20,7 +20,7 @@
     other = " "
 
 [postMetaNoTag]
-    other = "No tag"
+    other = "No categories"
 
 [postMetaWordCount]
     other = " words"

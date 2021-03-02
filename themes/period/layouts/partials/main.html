@@ -26,11 +26,8 @@
                             {{ end }}
                     </div>
                     <div class="post-content">
-                        {{ $description := .Description }}
-                        {{ if not $description }}
-                        {{ $description = .Summary | truncate 80 }}
-                        {{ end }}
-                        <p>{{ $description }}</p>
+                   
+                        <p>{{ .Content }}</p>
                         {{ if or .Params.Tags .Params.Categories }}
                         <div class="post-categories">
                             {{ if .Params.Tags }}

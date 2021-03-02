@@ -2,7 +2,7 @@ theme = "period"
 
 baseURL = "https://www.fractalog.com"
 copyright = "© FractaLog All rights reserved"
-paginate = 20
+paginate = 10
 title = "FractaLog"
 
 [[menu.main]]

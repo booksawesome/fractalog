@@ -1,134 +1,50 @@
-baseURL = "https://www.fractalog.com/"
+theme = "period"
+
+baseURL = "https://www.fractalog.com"
+copyright = "© FractaLog All rights reserved"
+paginate = 20
 title = "FractaLog"
 
-theme = "fuji"
-hasCJKLanguage = true
-enableEmoji = true
-enableRobotsTXT = true
-disableKinds = ["taxonomyTerm"]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Posts"
+url = "/post/"
+weight = 2
 
-disableHugoGeneratorInject = true
-
-## Change this two to switch between different language
-languageCode = "en"  # For RSS, view https://www.rssboard.org/rss-language-codes
-defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl
-
-summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
-paginate = 10
-
-# googleAnalytics = "" # Set your Google Analytics UA here
-
-[outputs]
-  home = ["html", "rss", "json"]
-
-[permalinks]
-  post = "/:slug/"
 
 [params]
-  author = "FractaLog" # You can also set author in post front matter individually
-  subTitle = "Model-Predict-Understand...A non-linear space for students of Chaos and Fractals"
+subTitle = "Model-Predict-Understand...A non-linear space for students of Chaos and Fractals."
 
-  # Use CloudFlare Workers to accelerate the Google Analytics
-  # If you are using this please comment the googleAnalytics above
-  # Check https://github.com/SukkaW/cloudflare-workers-async-google-analytics for more details
-  # googleAnalyticsTid = "UA-000000000-0"
-  # googleAnalyticsRoute = "https://*.*.workers.dev/"
+[params.cdn.js]
+highlightjs = "https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/highlight.min.js"
+jquery = "https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"
 
-  # Google AdSense
-  # The AdSense code will be inserted between the head tags of your site.
-  # googleAdsense = "0000000000000000"
+[params.cdn.css]
+highlightjs = "https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/styles/an-old-hope.min.css"
 
-  # Word counter and read time indicator in post metadata
-  showWordCounter = true
-  showReadTime = false
+[params.comment]
+repo = "{org}/{repo}"
+show = false
+theme = "github-light"
 
-  # License at the end of each post
-  showLicense = false
-  showToc = false
 
-  # Open Graph & Twitter Card variables
-  # You can also set description and images in post front matter individually
-  description = "FractaLog - a non-linear space for students of chaos and fractals."
-  images = ["img/og.png"] # This will use the image called og.png in static/img folder
+[params.widget.links]
+show = true
+title = "Friendly Links"
 
-  # Posts shown in homepage
-  mainSections = ["post"]
+[[params.widget.links.items]]
+title = "Hugo Themes"
+url = "https://hugothemesfree.com/"
 
-  # Bangumi image chart id
-  # bgmImageChart = "000000"
 
-  # License
-  license = "CC BY-NC-SA 4.0"
-  licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
 
-  # Comments
-  # utterances, see: https://utteranc.es/
-  # utterancesRepo = "*/*"
-  # utterancesIssueTerm = "pathname"
+[params.widget.oldtestament]
+show = true
+title = "oldtestament"
 
-  # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
-  # disqusShortname = "*********"
-  # Also use DisqusJS for accessing from Mainland China, see: https://github.com/SukkaW/DisqusJS
-  # If you want to set multiple api key, see theme's README for more details
-  # disqusJSApi = "https://*********/"
-  # disqusJSApikey = "**********"
-
-  # custom lazyload placeholder
-  # 16:9
-  lazyPlaceholder = "/assets/lazyload/dsrca_loading_480x270.svg"
-  # 32:9
-  lazyPlaceholderRow = "/assets/lazyload/dsrca_loading_960x270.svg"
-  # 8:9
-  lazyPlaceholderCol = "/assets/lazyload/dsrca_loading_480x540.svg"
-
-  # Use Hugo Pipes in Hugo Extended Version to compile SCSS
-  # useHugoPipes = true
-
-  # Let images display in full brightness under dark mode
-  # disableDarkImage = true
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true  # Enable user to embed HTML snippets in Markdown content
-  [markup.highlight]
-    codeFences = false  # Disable Hugo's code highlighter
-
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 3
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-
-[menu]
-  [[menu.nav]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "Archives"
-    url = "/archives/"
-    weight = 2
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
-
-  [[menu.link]]
- #   name = "BlueForce Blog"
-#    url = "https://blueforceblog.com/"
- #   weight = 1
- #[[menu.link]]
- #  name = "Wizardry Design"
-#   url = "https://wizardry-design.com/"
- #  weight = 2
-#  [[menu.link]]
-#    name = "Daily Soul Food "
- #   url = "https://dailysoulfood.com/"
-  #  weight = 3
+[params.widget.tags]
+show = true
+title = "Tags"

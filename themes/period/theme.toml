@@ -1,0 +1,17 @@
+description = "A beautiful theme for Hugo."
+features = ["beautiful", "fantastic"]
+homepage = "https://github.com/idoubi/hugo-theme-period"
+license = "MIT"
+licenselink = "https://github.com/idoubi/hugo-theme-period/blob/master/LICENSE"
+min_version = "0.41.0"
+name = "period"
+tags = ["blog", "period"]
+
+[author]
+homepage = "https://idoubi.cc"
+name = "idoubi"
+
+[original]
+homepage = "https://www.laruence.com/"
+name = "laruence"
+repo = ""
